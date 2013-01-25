@@ -1,0 +1,47 @@
+Type=Exe
+Form=frmMain.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#D:\WINDOWS\system32\stdole2.tlb#OLE Automation
+Module=Module1; Module1.bas
+Form=frmAbout.frm
+Form=frmCustom.frm
+Class=myClip; myClip.cls
+ResFile32="1.res"
+IconForm="frmMain"
+Startup="Sub Main"
+HelpFile=""
+Title="Russian Type"
+ExeName32="Eng2rus2.exe"
+Path32="F:\Toys\MYPROG\MegaToys"
+Command32=""
+Name="End2rus2"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=2
+MinorVer=60
+RevisionVer=57
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionComments="Russian Type"
+VersionCompanyName="Copyright (c) Megas"
+VersionFileDescription="Russian Type"
+VersionLegalCopyright="Copyright (c) Megas  2004-2007"
+VersionLegalTrademarks="freeware"
+VersionProductName="Russian Type"
+CondComp="dbg = 1"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
